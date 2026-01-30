@@ -25,8 +25,6 @@ from app_common import (
     safe_get_secret,
     load_alert_state,
     save_alert_state,
-    can_send,
-    mark_sent,
     send_slack,
     fmt_date,
     get_query_params,
